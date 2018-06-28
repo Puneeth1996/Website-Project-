@@ -1,0 +1,5 @@
+There was error with nav bar as active class couldnot be switched when moving across diffrent section of the page ....
+
+
+
+The java script has errors which couldnot be handled timely.
